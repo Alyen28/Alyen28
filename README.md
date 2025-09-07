@@ -1,8 +1,8 @@
-# 🇧🇷 Hi! I'm Alyne!  
+# <img src="https://cdn-icons-png.flaticon.com/512/197/197386.png" width="25"/> Hi! I'm Alyne!  
 
 ## 👩🏻‍💻 About Me
 - 🎂 17 years old  
-- 💻 Focused on Front-End Development but also comfortable with Python  
+- 💻 Focused on Web Development, but also comfortable with Python  
 - 📚 Love to read books and play games  
 
 ---
@@ -33,8 +33,14 @@
 ## 📬 Contact Me  
 
 <p align="left">
-  <a href="mailto:alyen28.dev@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
-  <a href="https://www.linkedin.com/in/alyne-feitosa"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
-  <a href="https://t.me/yourtelegram"><img src="https://skillicons.dev/icons?i=telegram" height="40"/></a>
+  <a href="mailto:alyen28.dev@gmail.com">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40"/>
+  </a>
+  <a href="https://www.linkedin.com/in/alyne-feitosa">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40"/>
+  </a>
+  <a href="https://t.me/alyen28">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/telegram.svg" height="40" width="40" />
+  </a>
 </p>
 
