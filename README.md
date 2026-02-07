@@ -1,9 +1,9 @@
 # <img src="https://cdn-icons-png.flaticon.com/512/197/197386.png" width="25"/> Hi! I'm Alyne!  
 
 ## 👩🏻‍💻 About Me
+- 💻 Focused on Web Development  
+- 📚 Love to read books and play games
 - 🎂 17 years old  
-- 💻 Focused on Web Development, but also comfortable with Python  
-- 📚 Love to read books and play games  
 
 ---
 
