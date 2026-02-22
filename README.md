@@ -21,15 +21,6 @@
 
 ---
 
-## 📊 My Stats  
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alyen28&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alyen28&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ## 📬 Contact Me  
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alyen28.dev@gmail.com)
