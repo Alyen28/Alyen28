@@ -15,7 +15,7 @@
 
 ---
 
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Alyen28&layout=compact&theme=nightowl)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Alyen28&layout=compact&theme=nightowl&hide_border=true)
 
 ---
 
