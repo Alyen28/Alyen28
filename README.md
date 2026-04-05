@@ -15,8 +15,7 @@
 
 ---
 
-## Most Used Languages
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Alyen28&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Alyen28&theme=tokyonight)
 
 ---
 
